@@ -5,18 +5,18 @@ We have been working closely with Maria to interpret the data and categorize the
 # Results: 
 ## How is the district summary affected?
 ### Before
-(https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/DSummary1.png)
+![school](https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/DSummary1.png)
 
 ### After
-(https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/DSummary2.png)
+![school](https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/DSummary2.png)
 > - There was pracatically no difference between the district summaries as expected. Since the student dataset is so large, removing the 9th grader data wouldn't change it too much.
 
 ## How is the school summary affected?
 ### Before
-(https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/SchoolSummary2.png)
+![school](https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/SchoolSummary2.png)
 
 ### After
-(https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/SchoolSummary1.png)
+![school](https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/SchoolSummary1.png)
 > - Even after removing the 9th graders' math and reading scores Thomas High School is still 2nd of all the schools in overall passing % in the district.
 
 ## How does replacing the ninth-grade scores affect the following:
@@ -25,26 +25,26 @@ We have been working closely with Maria to interpret the data and categorize the
 
 ### Scores by school spending
 #### Before
-(https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/SchoolSpending2.png)
+![school](https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/SchoolSpending2.png)
 
 #### After
-(https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/SchoolSpending1.png)
+![school](https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/SchoolSpending1.png)
 > - There is no impact on the spending per student because because the number of students for the spending calculation did not change.
 
 ### Scores by school size
 #### Before
-(https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/Scores1.png)
+![school](https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/Scores1.png)
 
 #### After
-(https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/Scores2.png)
+![school](https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/Scores2.png)
 > - Again, there is no impact when removing 9th graders from the data. Because the data is so large, calculating the school size didn't have a large enough change in average scores to see a big (or any) difference.
 
 ### Scores by school type
 #### Before
-(https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/Type1.png)
+![school](https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/Type1.png)
 
 #### After
-(https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/Type1.png)
+![school](https://github.com/mooshak21/School_District_Analysis/blob/main/Resources/Type1.png)
 > - No surpise,  but there is no impact when removing 9th graders from the data because the dataset is so large.
 
 ## Summary: 
